@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 - 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning DevOps
